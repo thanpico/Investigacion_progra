@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mapa1.1</string>
+    <string name="sitios">Sitios Turisticos</string>
+    <string name="type">Tipos de Mapas</string>
+    <string name="me">Mi ubicacion</string>
+    <string name="title_activity_maps1">Map</string>
+    <string name="title_activity_maps_tipos">Map</string>
+    <string name="hibrido">Hibrido</string>
+    <string name="satelital">Satelital</string>
+    <string name="terreno">Terreno</string>
+    <string name="normal">Normal</string>
+    <string name="title_activity_maps_activitylocalizacion">Map</string>
+</resources>
